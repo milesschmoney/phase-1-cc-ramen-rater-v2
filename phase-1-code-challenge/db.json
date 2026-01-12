@@ -1,7 +1,9 @@
 {
   "items": [
-    { "id": 1, "name": "Janelle Monae" },
-    { "id": 2, "name": "SZA" },
-    { "id": 3, "name": "Frank Ocean" }
+    { "id": 1, "name": "Janelle Monae", "genre": "R&B", "rating": 5 },
+    { "id": 2, "name": "SZA", "genre": "Soul", "rating": 4 },
+    { "id": 3, "name": "Frank Ocean", "genre": "Alternative", "rating": 5 },
+    { "id": 4, "name": "Kendrick Lamar", "genre": "Hip-Hop", "rating": 5 },
+    { "id": 5, "name": "Solange", "genre": "Indie", "rating": 4 }
   ]
 }
